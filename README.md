@@ -29,27 +29,22 @@ A Passionate <b>Developer</b> from <i><b>BANGLADESH</b></i>
 - 🌱 Currently learning **JavaScript**, and **C++**
 - 😄 Fun Fact: I enjoy working on small projects just to explore new tech stacks!
 
-<!-- ---
+---
 
 ### `~# Projects`
 <table border="1">
   <tr>
     <th>Repository Name</th>
     <th>Description</th>
+    <th>Date</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/amit-hasan10">Portfolio Project</a></td>
-    <td>Personal web portfolio showcasing skills and projects.</td>
+    <td><a href="https://github.com/amit-hasan10/Cosmetics-Products-Management-System">Cosmetics Product Management System</a></td>
+    <td>	A product management website.</td>
+    <td>	Oct 2024</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/amit-hasan10">ToDo App</a></td>
-    <td>Simple ToDo application using React & Firebase.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/amit-hasan10">Blog API</a></td>
-    <td>A RESTful Blog API built using Python and Flask.</td>
-  </tr>
-</table> -->
+</table>
 
 ---
 
