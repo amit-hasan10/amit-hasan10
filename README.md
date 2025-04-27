@@ -44,6 +44,10 @@ A Passionate <b>Developer</b> from <i><b>BANGLADESH</b></i>
     <td>	Oct 2024</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/amit-hasan10/Online-Quiz-App">Online-Quiz-App</a></td>
+    <td>A simple and interactive online quiz app.</td>
+    <td>Mar 29, 2025</td>
+  </tr>
 </table>
 
 ---
