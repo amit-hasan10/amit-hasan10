@@ -25,8 +25,8 @@ A Passionate <b>Developer</b> from <i><b>BANGLADESH</b></i>
 
 - 🧑‍🎓 I am a **student**
 - 🇧🇩 I am from **Bangladesh**
-- 💻 Passionate about tech, especially Web Development & Programming
-- 🌱 Currently learning **JavaScript**, and **C++**
+- 💻 Passionate about tech, especially Programming and Hacking
+- 🌱 Currently learning **JavaScript**, and **C++**, **Python**
 - 😄 Fun Fact: I enjoy working on small projects just to explore new tech stacks!
 
 ---
@@ -88,3 +88,4 @@ class Languages:
 
 ### Snake Eating My Contributions 🐍
 <img src="https://raw.githubusercontent.com/amit-hasan10/amit-hasan10/output/snake.svg" alt="Snake animation" />
+
